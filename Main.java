@@ -11,7 +11,7 @@ public class Main
 	public static void main(String[] args) {
 	 int l,r,v;
 	 Scanner sc = new Scanner(System.in);
-    	l=sc.nextInt();
+    	   l=sc.nextInt();
 	   r = sc.nextInt();
 	   v = sc.nextInt();
 	 int range = 0;
