@@ -29,3 +29,10 @@ public class Main {
         System.out.println(maxProfit(p));
     }
 }
+INPUT :
+ 5
+ 7 5 3 2 1
+    
+OUTPUT:
+ 0
+ 
